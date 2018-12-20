@@ -4,7 +4,8 @@
   "description": "Esse git é para postar a solução desenvolvida por mim, como o proposito deste desafio é só verificar o conheimento e logica relacionado a tecnologia, não estarei preocupando com melhorias, e sim só completar as normas solicitadas pelo desafio.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --mode development"
   },
   "repository": {
     "type": "git",
